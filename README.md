@@ -13,8 +13,6 @@
 - A little bit of cyber security.
 - And AI
 
-## When am I avalible ?
-- Most of the time on discord.
 
 
 ## What I learnt
