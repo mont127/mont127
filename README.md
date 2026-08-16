@@ -7,12 +7,23 @@
 - How to reach me: deepwokenpersona@gmail.com or via discord mont12
 - Pronouns: he/him
 
-## What I learnt 
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3e88c053-3f32-40b7-9c37-b4a838eb2544.jpeg?v=1784226827)](https://www.boot.dev/certificates/3e88c053-3f32-40b7-9c37-b4a838eb2544)
-[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/36b56d91-317c-4232-8deb-55c573c53b8c.jpeg?v=1785240534)](https://www.boot.dev/certificates/36b56d91-317c-4232-8deb-55c573c53b8c)
-[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/aa2f524b-16ce-4164-9aa1-6d35586bcabe.jpeg?v=1785418204)](https://www.boot.dev/certificates/aa2f524b-16ce-4164-9aa1-6d35586bcabe)
-[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b.jpeg?v=1786876424)](https://www.boot.dev/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b)
+## What I learnt
 
+<a href="https://www.boot.dev/certificates/3e88c053-3f32-40b7-9c37-b4a838eb2544">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3e88c053-3f32-40b7-9c37-b4a838eb2544.jpeg?v=1784226827" width="300" alt="Boot.dev Introduction to Python Course certificate">
+</a>
+
+<a href="https://www.boot.dev/certificates/36b56d91-317c-4232-8deb-55c573c53b8c">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/36b56d91-317c-4232-8deb-55c573c53b8c.jpeg?v=1785240534" width="300" alt="Boot.dev Learn Linux certificate">
+</a>
+
+<a href="https://www.boot.dev/certificates/aa2f524b-16ce-4164-9aa1-6d35586bcabe">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/aa2f524b-16ce-4164-9aa1-6d35586bcabe.jpeg?v=1785418204" width="300" alt="Boot.dev Build a BookBot in Python certificate">
+</a>
+
+<a href="https://www.boot.dev/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b.jpeg?v=1786876424" width="300" alt="Boot.dev Learn Git certificate">
+</a>
 ## What i whish to master in the future
 - Mainly devops things like kubernetes , docker, linux, ect...
 - C ,C++ 
