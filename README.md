@@ -7,6 +7,16 @@
 - How to reach me: deepwokenpersona@gmail.com or via discord mont12
 - Pronouns: he/him
 
+## What i whish to master in the future
+- Mainly devops things like kubernetes , docker, linux, ect...
+- C ,C++ 
+- A little bit of cyber security.
+- And AI
+
+## When am I avalible ?
+- Most of the time on discord.
+
+
 ## What I learnt
 
 <a href="https://www.boot.dev/certificates/3e88c053-3f32-40b7-9c37-b4a838eb2544">
@@ -24,11 +34,7 @@
 <a href="https://www.boot.dev/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b.jpeg?v=1786876424" width="300" alt="Boot.dev Learn Git certificate">
 </a>
-## What i whish to master in the future
-- Mainly devops things like kubernetes , docker, linux, ect...
-- C ,C++ 
-- A little bit of cyber security.
-- And AI
 
-## When am I avalible ?
-- Most of the time on discord.
+
+
+
