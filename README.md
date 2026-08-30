@@ -33,6 +33,6 @@
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dacc20f6-b5f1-4e15-8e55-ba0bf7c6124b.jpeg?v=1786876424" width="300" alt="Boot.dev Learn Git certificate">
 </a>
 
-
-
-
+<a href="https://www.boot.dev/certificates/c8c865a7-a83b-4f59-a9df-eba7c71b69ea">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c8c865a7-a83b-4f59-a9df-eba7c71b69ea.jpeg?v=1788084818" width="300" alt="Boot.dev Learn Object Oriented Programming in Python">
+</a>
