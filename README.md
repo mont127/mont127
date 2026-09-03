@@ -1,6 +1,6 @@
 ## Hi there 👋
-- Im currently maintaining MacNdCheese, Ocerz, and Neutron
-- Im currently learning Object Oriented Programming on boot.dev
+- Im currently maintaining MacNdCheese, Ocerz
+- Im currently building my own asteroid game on boot.dev
 - Im looking to collaborate on any project really
 - Im looking for help with Ocerz
 - Ask me about MacNdCheese
