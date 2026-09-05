@@ -36,3 +36,9 @@
 <a href="https://www.boot.dev/certificates/c8c865a7-a83b-4f59-a9df-eba7c71b69ea">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c8c865a7-a83b-4f59-a9df-eba7c71b69ea.jpeg?v=1788084818" width="300" alt="Boot.dev Learn Object Oriented Programming in Python">
 </a>
+
+
+<a href="https://www.boot.dev/certificates/c8c865a7-a83b-4f59-a9df-eba7c71b69ea">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ab68c207-e052-4cff-9f0b-e5cd91c7c703.jpeg?v=1788611592" width="300" alt="Build asteroids using python and pygame">
+</a>
+
