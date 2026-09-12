@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Im currently maintaining MacNdCheese, Ocerz
-- Im currently building SavePoint
+- Im currently learning GO
 - Im looking to collaborate on any project really
 - Im looking for help with Ocerz
 - Ask me about MacNdCheese
@@ -42,3 +42,6 @@
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ab68c207-e052-4cff-9f0b-e5cd91c7c703.jpeg?v=1788611592" width="300" alt="Build asteroids using python and pygame">
 </a>
 
+<a href="https://www.boot.dev/certificates/c8c865a7-a83b-4f59-a9df-eba7c71b69ea">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0c233aa0-6d66-4589-8be3-09980a563a93.jpeg?v=1789205705" width="300" alt="FancyTOP">
+</a>
